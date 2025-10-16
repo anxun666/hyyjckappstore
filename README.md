@@ -1,4 +1,2 @@
 # hyyjckappstore 海鹰鹰击长空应用商店官方仓库
-    }
-}
-?>
+<div align="center"><img src="https://via.placeholder.com/200x80?text=长空应用商店" alt="长空应用商店 Logo" style="border-radius: 8px; margin-bottom: 16px;"><p align="center"><a href="#-项目简介"><strong>项目简介</strong></a> •<a href="#-仓库结构"><strong>仓库结构</strong></a> •<a href="#-快速开始"><strong>快速开始</strong></a> •<a href="#-贡献指南"><strong>贡献指南</strong></a> •<a href="#-联系我们"><strong>联系我们</strong></a></p><p align="center"><img src="https://img.shields.io/github/stars/your-org/changkong-app-store?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/license/your-org/changkong-app-store?style=flat-square" alt="License"><img src="https://img.shields.io/github/release/your-org/changkong-app-store?style=flat-square" alt="Latest Release"></p></div>
