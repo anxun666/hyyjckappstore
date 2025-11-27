@@ -1,4 +1,4 @@
-# 长空应用商店 - 官方 GitHub 仓库
+# 鹄鹰长空应用商店 - 官方 GitHub 仓库
 欢迎来到长空应用商店的官方 GitHub 仓库！这里是汇聚优质应用、优化代码质量的协作平台，致力于打造更开放、更易用的应用分发生态。
 仓库主页链接：https://anxun666.github.io/hyyjckappstore/
 
@@ -20,7 +20,7 @@
 ### 应用投稿流程
 1. **提交应用信息**  
    通过官方应用提交平台提交：  
-   🔗 [长空应用商店 - 应用提交入口](https://yysd.hyyjckw.xx.kg/submitapp.php)
+   🔗 [长空应用商店 - 应用提交入口]([https://yysd.hyyjckw.xx.kg/)
 
 2. **准备辅助材料**  
    在 GitHub 仓库的 `contributions/apps/` 目录下，参照 `app-template.md` 模板补充：
